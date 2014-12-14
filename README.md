@@ -1,6 +1,6 @@
 ## Introduction ##
 
-This project is a porting of [yaffs2](http://www.yaffs.net) library on VxWorks, including drivers for Samsun K9K8G08U0A and K9F1G08U0A on Intel Xscale IXP425.
+This project is a porting of [yaffs2](http://www.yaffs.net) library on VxWorks, including drivers for Samsung K9K8G08U0A and K9F1G08U0A on Intel Xscale IXP425.
 
 ## Compile ##
 
